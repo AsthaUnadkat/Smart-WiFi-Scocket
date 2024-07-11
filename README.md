@@ -62,7 +62,7 @@ Here's a basic code of how to control the relay module using the ESP8266 and Bly
 #include <BlynkSimpleEsp8266.h>
 
 char auth[] = BLYNK_AUTH_TOKEN;
-char ssid[] = "Manav"; // type your wifi name
+char ssid[] = "Astha"; // type your wifi name
 char pass[] = "11111111"; // type your wifi password
 int relaypin = D4;
 void setup()
