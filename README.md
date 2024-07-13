@@ -1,4 +1,4 @@
-# Smart WiFi Socket
+# WIFI CONTROL
 
 The Smart WiFi Socket is a WiFi-operated device that allows you to control any electronic device plugged into it from anywhere using an internet connection. This project utilizes the ESP8266 microcontroller, a relay module, a switchboard socket, and a 5V power supply. The control is facilitated through the Blynk IoT mobile application, providing a user-friendly interface for remote management.
 
